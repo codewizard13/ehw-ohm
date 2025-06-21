@@ -1,0 +1,19 @@
+Certainly! Here's a concise and comprehensive prompt that summarizes all your requirements:
+
+---
+
+**Prompt:**
+
+> Generate a list of 10 unique chord progressions commonly used in rock and blues-influenced music, avoiding any that have already been covered in previous lists. For each progression, include:
+>
+> * The **formal name** of the progression.
+> * The **chord progression** in a specific key (preferably E for standard tuning: EADGBE).
+> * A **guitar chord chart** for each chord.
+> * **Three example songs** that use the progression (distinct from prior examples).
+> * **Learning resources** (with clickable URLs and the source/website name clearly shown).
+>
+> Format the entire output as a **downloadable PDF** suitable for guitarists, with all chord diagrams and links properly rendered.
+
+---
+
+Let me know if you'd like a version tailored to a different tuning, genre, or skill level.

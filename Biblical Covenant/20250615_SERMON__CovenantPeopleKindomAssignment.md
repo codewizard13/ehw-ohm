@@ -1,10 +1,13 @@
 
 ## 🔹 1. **Sermon: "Covenant People with a Kingdom Assignment"**
 
-**Text**: Exodus 19:5–6, Matthew 28:18–20, 2 Corinthians 5:20
-**Theme**: God’s covenant with His people is not just about blessings—it’s about **identity, responsibility, and mission**.
-**Audience**: Small, engaged Southern Baptist congregation rooted in traditional dispensational beliefs, with cultural sensitivity to a rural Black church context.
+<section class="overview-box" style="line-height: 1.2; margin: 0; color: brown; background: aliceblue; padding: 1rem; border: navy 1px solid; border-radius: .6rem;">
 
+- **Text**: Exodus 19:5–6, Matthew 28:18–20, 2 Corinthians 5:20</br>
+- **Theme**: God’s covenant with His people is not just about blessings—it’s about **identity, responsibility, and mission**.<br>
+- **Audience**: Small, engaged Southern Baptist congregation rooted in traditional dispensational beliefs, with cultural sensitivity to a rural Black church context.
+
+</section>
 
 ### Outline:
 

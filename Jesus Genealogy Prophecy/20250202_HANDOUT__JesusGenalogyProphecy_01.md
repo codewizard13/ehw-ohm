@@ -52,6 +52,7 @@ Chuck Missler famously noted that the names in the genealogy of Noah in Genesis 
 | Jesus (Yeshua) | "Yahweh Saves" | "Savior / Deliverer" | None |
 
 ---
+<div style="page-break-after: always;"></div>
 
 ### **Prophetic Message from the Hebrew Name Meanings**  
 - A **Father of Multitudes** (Abraham) brings forth **Laughter and Joy** (Isaac) as the **Supplanter** (Jacob) **Praises God** (Judah).  

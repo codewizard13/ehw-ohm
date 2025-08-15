@@ -59,7 +59,9 @@
 
 ---
 
+
 ### **Prophetic Message from the Hebrew Name Meanings**  
+
 - A **Father of Multitudes** (Abraham) brings forth **Laughter and Joy** (Isaac) as the **Supplanter** (Jacob) **Praises God** (Judah).  
 - A **Breach** (Perez) occurs, but through **Blooming and Exaltation** (Hezron, Ram), God prepares a **Noble People** (Amminadab).  
 - Though the **Serpent** (Nahshon) deceives, the **Garment of Strength** (Salmon, Boaz) covers a **Servant Worshiper** (Obed).  
@@ -74,44 +76,49 @@
 
 This can be written more clearly as the following prophetic narrative:
 
-A father of multitudes will arise,
-and from him will spring laughter and joy.
-The one who supplants will lift his voice in praise,
-and from his praise the worship of Yahweh will cover the earth.
+    A father of multitudes will arise,
+    and from him will spring laughter and joy.
+    The one who supplants will lift his voice in praise,
+    and from his praise the worship of Yahweh will cover the earth.
 
-There will be a breach — yet the breach will bloom,
-and out of desolation will come exaltation.
-The Lord will prepare a noble people,
-though the serpent will seek to deceive.
+    There will be a breach — yet the breach will bloom,
+    and out of desolation will come exaltation.
+    The Lord will prepare a noble people,
+    though the serpent will seek to deceive.
 
-The garment of strength will be laid upon the righteous,
-and the servant who worships will be covered.
-The gift of Yahweh will be given to the beloved one,
-and he will bring peace and enlarge the people.
+    The garment of strength will be laid upon the righteous,
+    and the servant who worships will be covered.
+    The gift of Yahweh will be given to the beloved one,
+    and he will bring peace and enlarge the people.
 
-My Father is Yahweh, and He brings healing;
-Yahweh judges those who exalt themselves.
-My strength is Yahweh, for Yahweh is perfect,
-even when He must grasp and strengthen the wayward.
+    My Father is Yahweh, and He brings healing;
+    Yahweh judges those who exalt themselves.
+    My strength is Yahweh, for Yahweh is perfect,
+    even when He must grasp and strengthen the wayward.
 
-But the people will forget,
-and their hearts will grow faint.
-Yet the faithful workman will come,
-and he will heal what was broken.
+    But the people will forget,
+    and their hearts will grow faint.
+    Yet the faithful workman will come,
+    and he will heal what was broken.
 
-Yahweh will establish through those asked of Him,
-and from the seed preserved in exile will arise His majesty.
-God will raise up a helper who is righteous,
-and my brother will rise as God's praise.
+    Yahweh will establish through those asked of Him,
+    and from the seed preserved in exile will arise His majesty.
+    God will raise up a helper who is righteous,
+    and my brother will rise as God's praise.
 
-God has helped through His gift,
-and the supplanter will bring forth the one who adds—
-through him Yahweh will save.
-He will be the fulfillment of the promise,
+    God has helped through His gift,
+    and the supplanter will bring forth the one who adds—
+    through him Yahweh will save.
+
+**[End of name-derived prophecy]**
+
+**Theological Summary:**
+He will be the fulfillment of the promise, 
 the mender of the breach,
 and the joy of all nations.
 
 ---
+
 
 ### **Key Differences Between Hebrew and Greek Prophecy**  
 | **Theme**        | **Hebrew Prophecy**        | **Greek Prophecy**        |

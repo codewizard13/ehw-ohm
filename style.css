@@ -1,0 +1,9 @@
+.overview-box {
+  line-height: 1.2;
+  margin: 0;
+  color: brown;
+  background: aliceblue;
+  padding: 1rem;
+  border: navy 1px solid;
+  border-radius: 0.6rem;
+}

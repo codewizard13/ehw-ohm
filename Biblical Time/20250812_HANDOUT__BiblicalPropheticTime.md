@@ -1,7 +1,9 @@
+<link rel="stylesheet" href="../style.css">
+
 
 ## 🔹 1. Handout: 📜 **Revelation Time Symbols — Bible Manners and Customs**
 
-<section class="overview-box" style="line-height: 1.2; margin: 0; color: brown; background: aliceblue; padding: 1rem; border: navy 1px solid; border-radius: .6rem;">
+<section class="overview-box">
 
 - **Text:** Revelation 8:1, 9:15, 11:9; Daniel 9:24–27; 2 Peter 3:8
 - **Theme:** God’s prophetic timing uses symbolic numbers rooted in Temple worship and covenant cycles to communicate precise, purposeful divine actions — revealing that His plans unfold exactly as appointed, with sacred pauses, cut-short trials, and exact fulfillment.

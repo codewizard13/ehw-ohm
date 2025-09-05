@@ -12,9 +12,7 @@
 </section>
 
 
-## 
-
----
+<br>
 
 ### **⏳ HALF HOUR OF SILENCE**
 

@@ -6,27 +6,40 @@
 
 <section class="overview-box">
 
-- **Text:** Mark 10:9
-- **Theme:** God’s strength and blessing are decreed over marriages, declaring unity, love, and protection against division. In a time when marriage is under attack, believers are called to stand, pray, and release God’s healing, joy, and lasting covenant over every marriage.
+
+- **Text:** **1 Corinthians 1:18**, Deuteronomy 21:23
+- **Theme:** The cross, once a symbol of public shame and defeat, is revealed as the power and wisdom of God for those who believe. What the world calls foolishness, God transforms into victory and glory through Christ.
 - **Audience:** Small, engaged Southern Baptist congregation rooted in traditional dispensational beliefs, with cultural sensitivity to a rural Black church context.
 
 </section>
 
+---
 
-<br>
-
- 
-
-
-
-
-Great — let’s look carefully at **1 Corinthians 1:18** and connect it with what we’ve just laid out about public humiliation and the Roman cross.
+The cross stands as the dividing line between human wisdom and God's wisdom. What seemed like utter defeat and humiliation to the world became the greatest victory for those who believe. This handout explores how the "foolishness" of the cross is actually the power of God, and how embracing it transforms shame into glory.
 
 ---
 
 📖 **Verse (KJV):**
 
 > *“For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.”*
+
+---
+
+
+## 🏈 **Sidebar Analogy: The Cross as the “Game-Winning Play”**
+
+Imagine a football game:
+
+* Your team is down by 40 points in the 4th quarter.
+* The coach calls a play that looks **crazy** — a trick play nobody thinks will work.
+* The crowd boos. The other team laughs. Even your own fans leave the stadium.
+* But then that “foolish play” turns into the **game-winning touchdown.**
+
+👉 That’s the message of the cross:
+
+* To the world, it looked like the worst defeat.
+* To God, it was the **greatest victory** — the winning play that no one saw coming.
+
 
 ---
 

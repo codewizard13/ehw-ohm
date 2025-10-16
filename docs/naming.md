@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../style.css">
+
 # Naming Conventions and Metadata Standards
 
 Uniform naming and metadata ensure your ministry content is organized, searchable, and easy to automate.
@@ -22,13 +24,13 @@ Example filenames:
 
 ## Common Type Prefixes
 
-| Type     | Prefix      | Description                                   |
-|----------|-------------|-----------------------------------------------|
-| Sermon   | SERMON__    | Full sermon manuscripts                       |
-| Teaching | TEACHING__  | Teaching notes and explanatory outlines      |
-| Handout  | HANDOUT__   | Printed handouts and summaries                |
-| Addendum | ADDENDUM__  | Supplementals or commentary                    |
-| Draft    | DRAFT__     | Work-in-progress documents                    |
+| Type     | Prefix     | Description                             |
+| -------- | ---------- | --------------------------------------- |
+| Sermon   | SERMON__   | Full sermon manuscripts                 |
+| Teaching | TEACHING__ | Teaching notes and explanatory outlines |
+| Handout  | HANDOUT__  | Printed handouts and summaries          |
+| Addendum | ADDENDUM__ | Supplementals or commentary             |
+| Draft    | DRAFT__    | Work-in-progress documents              |
 
 ---
 

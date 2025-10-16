@@ -30,10 +30,10 @@ D:.
 │   README.md
 │   style.css
 │
-├───_templates/
-├───_drafts/
-├───_output/
-├───_topics/
+├───templates/
+├───drafts/
+├───output/
+├───topics/
 │   ├───Covenant/
 │   ├───BiblicalTime/
 │   ├───Decrees/

@@ -178,20 +178,20 @@ For merging templates and exporting formats:
 
 ## 🚀 Project Roadmap
 
-| Phase | Goal | Description |
-|-------|------|-------------|
-| 1 | ✅ Repo Foundation | Markdown workflow, structured exports |
-| 2 | 🧩 Auto Front-Matter | Scripted metadata setup |
-| 3 | 🌐 Web Sync | Auto-publish to website |
-| 4 | 🧠 Scripture Parsing | Auto-link Bible references |
-| 5 | 🕊️ Visuals | Enhanced icons and design system |
-| 6 | 📦 Backups | ZIP archiving and retention policy |
-| 7 | 🧱 Path Validation | Filename/path validator script |
-| 8 | 🏗️ Template Refactor | Split into HTML/Markdown sets |
-| 9 | 🧭 Index Generator | Create searchable topic index |
-| 10 | 🪶 Style Enforcement | Markdown linter & heading auditor |
-| 11 | 🗄️ Topic Metadata | Build `meta/metadata.yaml` for each folder |
-| 12 | 🌐 Publication Pipeline | Auto-build and deploy HTML+PDF site |
+| Phase | Goal                   | Description                                |
+| ----- | ---------------------- | ------------------------------------------ |
+| 1     | ✅ Repo Foundation      | Markdown workflow, structured exports      |
+| 2     | 🧩 Auto Front-Matter    | Scripted metadata setup                    |
+| 3     | 🌐 Web Sync             | Auto-publish to website                    |
+| 4     | 🧠 Scripture Parsing    | Auto-link Bible references                 |
+| 5     | 🕊️ Visuals              | Enhanced icons and design system           |
+| 6     | 📦 Backups              | ZIP archiving and retention policy         |
+| 7     | 🧱 Path Validation      | Filename/path validator script             |
+| 8     | 🏗️ Template Refactor    | Split into HTML/Markdown sets              |
+| 9     | 🧭 Index Generator      | Create searchable topic index              |
+| 10    | 🪶 Style Enforcement    | Markdown linter & heading auditor          |
+| 11    | 🗄️ Topic Metadata       | Build `meta/metadata.yaml` for each folder |
+| 12    | 🌐 Publication Pipeline | Auto-build and deploy HTML+PDF site        |
 
 [Full details ›](docs/roadmap.md)
 

@@ -1,221 +1,103 @@
-> ⚠️ **DRAFT VERSION — WORK IN PROGRESS**  
-> _This document is under active development and may change substantially._
+<div align="center">
 
-![Status: Draft](https://img.shields.io/badge/Status-DRAFT-orange?style=for-the-badge)
+<img src="_pix/logos/logo-ehw-kb-h32.png" alt="Eric Hepperle Designs Logo" width="120"/>
 
+# ✝️ Organic Harvest Ministries Knowledge Base  
+### 📖 Worksheets, Sermons, Teaching Resources
 
-# ✝️ Organic Harvest Ministries — Teaching & Handout Repository
+_Worksheets, sermon notes, and ministry resources (AI-assisted) for teaching, discipleship, and church life._
 
-> **Markdown-first, Spirit-led document system** for sermons, outlines, decrees, and handouts.
-> Designed for clarity, reusability, and Kingdom excellence.
+[🌐 erichepperle.com](https://erichepperle.com) • [📘 License](#⚖️-license) • [🕊️ About](#🧭-overview)
+
+</div>
+
+***
+
+## 🧭 Overview
+
+This repository houses **Organic Harvest Ministries’** sermon notes, handouts, and discipleship materials — built and managed by **Eric Hepperle Designs**. It’s organized so church leaders and volunteers can quickly find, update, or print resources for Sunday services, classes, or study groups.  
+
+Everything here stays human-readable and portable — Markdown for editing, HTML for preview, and PDF for printing.
+
+***
+
+## 📂 Repository Structure
+
+| Folder / Path | Description |
+| ------------- | ----------- |
+| `_pix/` | Logos, screenshots, and other static visuals used across documents or READMEs. |
+| `drafts/` | Work‑in‑progress handouts, sermons, and church documents. Draft filenames include date, type (HANDOUT, SERMON, etc.), and a short title. |
+| `output/` | Final HTML/PDF exports — print‑ready or shareable files. Usually paired with a matching draft or topic version. |
+| `topics/` | Organized, canonical content grouped by teaching theme (e.g., Covenant, Music, Biblical Prophecy). Each topic folder acts as the main source of truth. |
+| `refs/` | Repo documentation and guides: naming rules, export how‑tos, style guide, roadmap, templates overview, and workflow explanations. |
+| `templates/` | Base layouts for new content — use these to start new handouts or sermon outlines. |
+| `tools/` | Optional scripts and utilities that automate exports or simplify file management. |
+| `style.css` | Shared visual styling for exported HTML handouts. |
+| `desktop.ini` | Windows icon/metadata file (safe to ignore when cloning). |
+
+***
+
+## 📚 Topics Overview
+
+The `topics/` directory is the primary way to navigate teaching content. Each subfolder represents a coherent theme with one or more linked handouts or outlines.
+
+| Topic Folder | Example Contents |
+| ------------ | ---------------- |
+| `Biblical Covenant/` | Church document, sermon, and teaching outline for covenant (e.g., `RevisedCovenant`, `CovenantPeopleKindomAssignment`, `WhyCovenantMatters`). |
+| `Biblical Time/` | Handouts related to prophetic or biblical time (e.g., `BiblicalPropheticTime`). |
+| `Decrees/` | Decree‑oriented materials such as marriage decrees and covenantal declarations. |
+| `Foolish Cross/` | Handouts focused on "Foolishness of the Cross" and related teaching. |
+| `Jesus Genealogy Prophecy/` | Jesus' genealogy and prophecy handouts, including corrected/updated versions. |
+| `Matthew's Kingdom Parables/` | Materials on Matthew's kingdom parables (e.g., "Barstools to Kingdom Tools", "Kingdom Ambassador Parables"). |
+| `Music/` | Music‑related worksheets (chord progressions, practice sheets) and supporting prompt notes. |
+| `Unsorted Lessons/` | Holding area for lessons not yet assigned to a primary topic folder. |
+
+When promoting a draft to "canonical," move or copy it under the appropriate `topics/<Topic Name>/` folder so that topic folders remain the source of truth.
 
 ---
 
-## 📖 Purpose
-A **structured, version-controlled library** for all teaching materials. Each document is maintained as Markdown (`.md`), enabling rich revision history, easy export, and ministry-wide clarity.
+## 🧩 References, Templates & Tools
 
-**Key outcomes:**
-- 🔹 Fast drafting and revision  
-- 🔹 Consistent, reusable templates  
-- 🔹 Automated export to HTML, PDF, DOCX  
-- 🔹 [Template formatting details ›](docs/templates.md)
+These folders support the production workflow for all ministry content in this repository.
 
-***
+| Folder | Role |
+| ------ | ---- |
+| `refs/` | Documentation hub (exports, automation, YAML/Pandoc guide, naming conventions, roadmap, styleguides, templates, versioning strategy). Start here when you need "how this repo works" information. |
+| `templates/` | Base layouts for handouts, sermons, teaching outlines, and docs. Use these as the starting point for new content in `drafts/` and later promote to `topics/`. |
+| `tools/` | Scripts, utilities, or configuration used to automate exports, manage filenames, or integrate with your broader tooling. |
+| `_sb/` | Log and scratch area: diffs, git logs, and tree snapshots to track change history beyond standard VCS views. |
 
-## 🗂️ Folder Structure Overview
-
-### Simplified Tree
-
-```text
-D:.
-│   README.md
-│   style.css
-│   .gitignore
-│
-├───docs/
-├───templates/
-├───drafts/
-├───output/
-├───topics/
-├───tools/
-└───_sb/
-```
-
-### Detailed Breakdown
-
-```text
-├───docs/
-│   ├── exports.md
-│   ├── naming.md
-│   ├── roadmap.md
-│   ├── styleguide.md
-│   ├── templates.md
-│   └── versioning.md
-│
-├───templates/
-│   ├───html/
-│   ├───markdown/
-│   └───includes/
-│
-├───drafts/
-│   └───archive/
-│
-├───output/
-│   ├───html/
-│   ├───pdf/
-│   ├───docx/
-│   └───logs/
-│
-├───topics/
-│   ├───biblical-covenant/
-│   ├───biblical-time/
-│   ├───decrees/
-│   ├───foolish-cross/
-│   ├───jesus-genealogy-prophecy/
-│   ├───matthew-kingdom-parables/
-│   ├───music/
-│   └───unsorted-lessons/
-│
-├───tools/
-│   ├── pandoc/
-│   ├── powershell/
-│   └── nodejs/
-│
-└───_sb/
-    └───_tmp/
-```
-
-- Folders prefixed with `_` (e.g., `_sb`, `_tmp`) are **ignored by automation or exports**.
-- All public/exported content resides in non-prefixed folders.
-
-***
-
-## 🧭 Workflow Summary
-
-1. **Draft in Markdown** with structured YAML front matter.  
-2. **Apply templates** using include tokens.  
-3. **Export automatically** via PowerShell or Node scripts using Pandoc + wkhtmltopdf.  
-4. **Style and publish** consistently with shared CSS.
-
-Quickstart examples (from both versions):
-- Draft (v2 example): `notepad .\topics\biblical-covenant\20250615_TEACHING__WhyCovenantMatters.md`  
-- Draft (v1 path example, kept for reference): `notepad .\_topics\Covenant\teachings\20250615_TEACHING__WhyCovenantMatters.md`  
-- Export: `.\Export-Markdown-v2.ps1`  
-- View: open HTML or PDF in `/output/`
-
-***
-
-## 🧩 Templates & Include Tokens
-
-Use preapproved snippets and ministry-standard layout components:
-
-- **Markdown tokens:**  
-  `{{include templates/markdown/handout_header.md}}`
-- **HTML templates:**  
-  Structured for Pandoc conversion  
-- [Template reference ›](docs/templates.md)
-
-(Alternate token paths seen in earlier drafts: `{{include _templates/markdown/handout_header.md}}` — canonical path follows templates/ above.)
-
-***
-
-## 🧱 Naming, Metadata & Versioning
-
-Use consistent format:  
-`<YYYYMMDD>_<TYPE>__<TopicName>.md`  
-
-Example:  
-`20250615_SERMON__CovenantPeopleKingdomAssignment.md`
-
-Each begins with YAML front matter:
-
-```yaml
 ---
-title: "Why Covenant Matters"
-topic: "Covenant"
-type: "Teaching"
-date: 2025-06-15
-status: Published
----
-```
 
-- [Naming guidelines ›](docs/naming.md)  
-- [Versioning guide ›](docs/versioning.md)
+## 📝 Recommended Workflow
 
-***
+1. **Draft** new material inside `drafts/` using a starter from `templates/`.  
+2. **Preview or export** it to HTML and PDF into `output/`.  
+3. **Finalize/promote** completed documents by dropping them into `topics/<Topic>/`.  
+4. **Maintain** workflow consistency by updating reference docs inside `refs/` as your process evolves.  
 
-## 📏 File and Path Policy
-
-- **Max full path length:** 80 characters  
-- **Recommended filename limit:** 50 characters  
-- **Folder naming:** short-kebab-case, max 5 words  
-- **Reserved prefixes:**
-  - `_` = skip automation/export  
-  - `DRAFT__` = internal drafts only  
-- Automations should validate path length and safe characters before export.
-
-**Standardized path example:**
-```
-topics/<short-kebab-case-subfolder>/<YYYYMMDD>_<TYPE>__<TopicName>.md
-```
-
-Example:
-```
-topics/biblical-time/20250812_HANDOUT__BiblicalPropheticTime.md
-```
-
-***
-
-## 🧰 Scripts & Automation
-
-For merging templates and exporting formats:
-
-- **PowerShell** — [usage ›](docs/exports.md#powershell)  
-- **Node.js** — [usage ›](docs/exports.md#nodejs)  
-- **Requirements:** Pandoc, wkhtmltopdf, Node 18+ (for JS automation)
-
-***
-
-## 🚀 Project Roadmap
-
-| Phase | Goal                   | Description                                |
-| ----- | ---------------------- | ------------------------------------------ |
-| 1     | ✅ Repo Foundation      | Markdown workflow, structured exports      |
-| 2     | 🧩 Auto Front-Matter    | Scripted metadata setup                    |
-| 3     | 🌐 Web Sync             | Auto-publish to website                    |
-| 4     | 🧠 Scripture Parsing    | Auto-link Bible references                 |
-| 5     | 🕊️ Visuals              | Enhanced icons and design system           |
-| 6     | 📦 Backups              | ZIP archiving and retention policy         |
-| 7     | 🧱 Path Validation      | Filename/path validator script             |
-| 8     | 🏗️ Template Refactor    | Split into HTML/Markdown sets              |
-| 9     | 🧭 Index Generator      | Create searchable topic index              |
-| 10    | 🪶 Style Enforcement    | Markdown linter & heading auditor          |
-| 11    | 🗄️ Topic Metadata       | Build `meta/metadata.yaml` for each folder |
-| 12    | 🌐 Publication Pipeline | Auto-build and deploy HTML+PDF site        |
-
-[Full details ›](docs/roadmap.md)
-
-***
-
-## 🙏 Vision Statement
-
-> “We record, refine, and release revelation —  
-> so that the Word given to us may bear fruit through teaching, decrees, and discipleship.”  
-> — *Organic Harvest Ministries*
+👉 For detailed roadmap or process planning, check out   [`refs/roadmap.md`](refs/roadmap.md)
 
 ***
 
 ## 🔗 Additional Resources
 
-- [Style guide ›](docs/styleguide.md)
-- [Directory taxonomy ›](docs/naming.md#topics)
-- [Template library ›](docs/templates.md)
-- [Roadmap ›](docs/roadmap.md)
+If you’re looking for standards and internal documentation, explore the `refs/` folder:
+
+- [`styleguide.md`](refs/styleguide.md) — Formatting rules and Markdown conventions.  
+- [`templates.md`](refs/templates.md) — Description of document types and layouts.  
+- [`roadmap.md`](refs/roadmap.md) — Current goals and upcoming repo improvements.  
+
+These documents cover the references previously listed under this section, so this version avoids redundancy.
 
 ***
 
-See the /docs/ folder for all supplementary technical guides, references, and developer notes.
+## ⚖️ License
 
-***
+This repository is licensed under a standard open source license (e.g., MIT, Apache 2.0) or ministry‑specific terms. See the [LICENSE file](LICENSE) for details.
 
-Would you like me to create a matching revision for **docs/naming.md** next, aligning it with these new rules (path length, kebab-case folder policy,
+## 🙏 Acknowledgments
+
+Built with love for ministry using GitHub, Markdown, Pandoc, and AI‑assisted content generation.
+
+---
